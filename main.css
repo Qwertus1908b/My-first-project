@@ -10,3 +10,10 @@ img {
     margin-left: 50px;
     margin-top: 50px;
 }
+.about {
+    display: flex;
+}
+
+.about .about-content {
+    padding: 20px;
+}

@@ -38,3 +38,13 @@ header {
 header ul {
 	list-style: none;
 }
+
+header li {
+	margin-bottom: 15px;
+}
+
+header address img {
+	width: 16px;
+	height: 16px;
+	background-color: cornflowerblue;
+}
